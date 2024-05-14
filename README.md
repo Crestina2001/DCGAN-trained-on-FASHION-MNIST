@@ -1,6 +1,6 @@
-# BERT Fine-Tuning on IMDB Dataset
+# DCGAN trained on FASHION-MNIST
 
-This repository contains code for fine-tuning BERT on the IMDB dataset for sentiment analysis, focusing on optimizing various hyperparameters to achieve the best model performance.
+This repository contains code for conducting various experiments with GANs on the Fashion-MNIST dataset. The experiments involve altering the model architecture, hyperparameters, and training strategies to assess their impact on performance.
 
 ## 1. Introduction and Background
 
